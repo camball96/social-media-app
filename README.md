@@ -49,4 +49,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 So far I have built out a basic topbar component and midway through a sidebar component. Lost of work to still be done but I am liking
 how it is shaping up.
-![Alt text](/assets/earlyS.png?raw=true "Early Stages")
+![EarlyS](earlyS.png "Early Stages")
