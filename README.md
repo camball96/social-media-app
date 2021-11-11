@@ -45,8 +45,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Early Stages
-
-So far I have built out a basic topbar component and midway through a sidebar component. Lost of work to still be done but I am liking
-how it is shaping up.
-![EarlyS](earlyS.png "Early Stages")
